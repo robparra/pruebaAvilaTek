@@ -12,7 +12,7 @@ function Footer() {
         <MDBContainer className='text-center text-md-start mt-5'>
           <MDBRow className='mt-3'>
             <MDBCol md="3" lg="4" xl="3" className='mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>
+              <h6 className='text-uppercase fw-bold mb-4' style={{color:'#E2081E'}}>
                 <MDBIcon icon="gem" className="me-3" />
                 Sobre nosotros
               </h6>
@@ -22,62 +22,62 @@ function Footer() {
             </MDBCol>
 
             <MDBCol md="2" lg="2" xl="2" className='mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Mi cuenta</h6>
+              <h6 className='text-uppercase fw-bold mb-4' style={{color:'#E2081E'}}>Mi cuenta</h6>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Información personal
-                </a>
+
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Direcciones
-                </a>
+
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Mascotas
-                </a>
+
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Órdenes
-                </a>
+
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Agenda
-                </a>
+
               </p>
             </MDBCol>
 
             <MDBCol md="3" lg="2" xl="2" className='mx-auto mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Información</h6>
+              <h6 className='text-uppercase fw-bold mb-4' style={{color:'#E2081E'}}>Información</h6>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Formulario de contacto
-                </a>
+
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Preguntas frecuentes
-                </a>
+
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Términos y condiciones
-                </a>
+
               </p>
               <p>
-                <a href='#!' className='text-reset'>
+
                   Política de privacidad
-                </a>
+
               </p>
             </MDBCol>
 
             <MDBCol md="4" lg="3" xl="3" className='mx-auto mb-md-0 mb-4'>
-              <h6 className='text-uppercase fw-bold mb-4'>Atención al cliente</h6>
+              <h6 className='text-uppercase fw-bold mb-4' style={{color:'#E2081E'}}>Atención al cliente</h6>
               <p>
-                <MDBIcon icon="home" className="me-2" />
+                <MDBIcon icon="home" className="me-3" />
                 Bello Monte, calle XXXX, local 1
               </p>
               <p>

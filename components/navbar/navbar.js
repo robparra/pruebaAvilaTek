@@ -38,7 +38,7 @@ function HomeNavbar() {
         <Container>
           <Nav className="navbar-collapse justify-content-center" >
             <Nav.Link href="#">Inicio</Nav.Link>
-            <Nav.Link href="#">Compras por maraca</Nav.Link>
+            <Nav.Link href="#">Compras por marca</Nav.Link>
             <Nav.Link href="#">Compras por mascota</Nav.Link>
             <Nav.Link href="#">Nuestros servicios</Nav.Link>
             <Nav.Link href="#">Promociones</Nav.Link>
